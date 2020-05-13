@@ -1,0 +1,2 @@
+keyboard
+-DCATKIN_DEVEL_PREFIX=/home/zhihui/CLionProjects/control/Keyboard/devel -DCMAKE_INSTALL_PREFIX=/home/zhihui/CLionProjects/control/Keyboard/install -G Unix Makefiles

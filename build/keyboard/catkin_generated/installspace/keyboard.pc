@@ -1,0 +1,8 @@
+prefix=/home/zhihui/CLionProjects/control/Keyboard/install
+
+Name: keyboard
+Description: Description of keyboard
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zhihui/CLionProjects/control/Keyboard/install/lib 
+Requires: 
